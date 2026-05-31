@@ -143,9 +143,7 @@ Through this project, I practiced building an end-to-end Power BI dashboard, inc
 
 This project also strengthened my ability to turn healthcare data into clear business insights that support financial analysis and operational decision-making.
 
-## Contact
+## Author 
 
-Created by **Aryam Aljarallah**
+**Aryam Aljarallah**
 
-- LinkedIn: Add your LinkedIn link here
-- GitHub: Add your GitHub profile link here
