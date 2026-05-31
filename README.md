@@ -119,11 +119,11 @@ Average out of Pocket = DIVIDE([Out of Pocket], [Total Patients])
 
 ### Dark Mode
 
-![Healthcare Provider Dashboard - Dark Mode](dashboard-dark.png)
+![Healthcare Provider Dashboard - Dark Mode](dashboard-dark.jpg)
 
 ### Light Mode
 
-![Healthcare Provider Dashboard - Light Mode](dashboard-light.png)
+![Healthcare Provider Dashboard - Light Mode](dashboard-light.jpg)
 
 ## Project Structure
 
